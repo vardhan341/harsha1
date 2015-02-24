@@ -1,0 +1,1 @@
+hai friends this is the first example for git repository
